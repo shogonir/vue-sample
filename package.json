@@ -1,0 +1,25 @@
+{
+  "name": "vue-sample",
+  "version": "1.0.0",
+  "description": "* Sample repository with Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shogonir/vue-sample.git"
+  },
+  "author": "shogonir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shogonir/vue-sample/issues"
+  },
+  "homepage": "https://github.com/shogonir/vue-sample#readme",
+  "dependencies": {
+    "vue": "^2.5.17"
+  },
+  "devDependencies": {
+    "vue-cli": "^2.9.6"
+  }
+}
